@@ -1,0 +1,10 @@
+{
+  "name": "peerjs-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "peerjs --port 9000"
+  },
+  "dependencies": {
+    "peer": "^2.0.0"
+  }
+}
